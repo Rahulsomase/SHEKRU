@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Rahulsomase/SHEKRU/static/css/main.f855e6bc.css",
+    "main.js": "/Rahulsomase/SHEKRU/static/js/main.0eb04c9e.js",
+    "static/media/logo.svg": "/Rahulsomase/SHEKRU/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Rahulsomase/SHEKRU/index.html",
+    "main.f855e6bc.css.map": "/Rahulsomase/SHEKRU/static/css/main.f855e6bc.css.map",
+    "main.0eb04c9e.js.map": "/Rahulsomase/SHEKRU/static/js/main.0eb04c9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0eb04c9e.js"
+  ]
+}
